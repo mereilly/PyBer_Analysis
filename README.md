@@ -53,3 +53,7 @@ Recommendation 2: At first maybe there could be a sign on bonus, or an emphasis 
 
 Recommendation 3: Pyber could run a recruitment campaign focusing on individuals who seek out working for PyBer as a side job type task so more people could get on the road as independant contractors and contribute to the greater success of the integration accross all areas without having an issue of them wanting to get as many rides as possible to sustain themselves on this income, which would undoubtedly lead to a migration to the urban center as the business is still so heavily concentrated in those zones, and again leave gaps in access.  
 
+
+
+
+(Something to consider maybe if we want to take the anaylisis further https://stackoverflow.com/questions/65063058/convert-unix-timestamp-to-date-string-with-format-yyyy-mm-dd)
